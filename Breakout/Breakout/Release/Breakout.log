@@ -1,0 +1,91 @@
+﻿  main.cpp
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(487,68): warning C4244:  “参数”: 从“double”转换到“T”，可能丢失数据
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(487,68): warning C4244:         with
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(487,68): warning C4244:         [
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(487,68): warning C4244:             T=float
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(487,68): warning C4244:         ]
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(487,51): warning C4244:  “参数”: 从“double”转换到“T”，可能丢失数据
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(487,51): warning C4244:         with
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(487,51): warning C4244:         [
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(487,51): warning C4244:             T=float
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(487,51): warning C4244:         ]
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(488,69): warning C4244:  “参数”: 从“double”转换到“T”，可能丢失数据
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(488,69): warning C4244:         with
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(488,69): warning C4244:         [
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(488,69): warning C4244:             T=float
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(488,69): warning C4244:         ]
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(488,52): warning C4244:  “参数”: 从“double”转换到“T”，可能丢失数据
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(488,52): warning C4244:         with
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(488,52): warning C4244:         [
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(488,52): warning C4244:             T=float
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(488,52): warning C4244:         ]
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(544,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(550,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(556,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(562,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(579,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(584,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(589,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(594,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(620,67): warning C4244:  “参数”: 从“double”转换到“T”，可能丢失数据
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(620,67): warning C4244:         with
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(620,67): warning C4244:         [
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(620,67): warning C4244:             T=float
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(620,67): warning C4244:         ]
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(620,50): warning C4244:  “参数”: 从“double”转换到“T”，可能丢失数据
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(620,50): warning C4244:         with
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(620,50): warning C4244:         [
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(620,50): warning C4244:             T=float
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(620,50): warning C4244:         ]
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(621,68): warning C4244:  “参数”: 从“double”转换到“T”，可能丢失数据
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(621,68): warning C4244:         with
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(621,68): warning C4244:         [
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(621,68): warning C4244:             T=float
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(621,68): warning C4244:         ]
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(621,51): warning C4244:  “参数”: 从“double”转换到“T”，可能丢失数据
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(621,51): warning C4244:         with
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(621,51): warning C4244:         [
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(621,51): warning C4244:             T=float
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(621,51): warning C4244:         ]
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(703,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(709,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(715,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(721,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(738,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(743,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(748,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(753,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(779,67): warning C4244:  “参数”: 从“double”转换到“T”，可能丢失数据
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(779,67): warning C4244:         with
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(779,67): warning C4244:         [
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(779,67): warning C4244:             T=float
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(779,67): warning C4244:         ]
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(779,50): warning C4244:  “参数”: 从“double”转换到“T”，可能丢失数据
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(779,50): warning C4244:         with
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(779,50): warning C4244:         [
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(779,50): warning C4244:             T=float
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(779,50): warning C4244:         ]
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(780,68): warning C4244:  “参数”: 从“double”转换到“T”，可能丢失数据
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(780,68): warning C4244:         with
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(780,68): warning C4244:         [
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(780,68): warning C4244:             T=float
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(780,68): warning C4244:         ]
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(780,51): warning C4244:  “参数”: 从“double”转换到“T”，可能丢失数据
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(780,51): warning C4244:         with
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(780,51): warning C4244:         [
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(780,51): warning C4244:             T=float
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(780,51): warning C4244:         ]
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(872,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(878,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(884,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(890,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(908,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(913,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(918,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(923,24): warning C4018:  “<”: 有符号/无符号不匹配
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\Game230\Breakout\Breakout\Breakout\main.cpp(116): warning C4715: “Ball::UpdateBall”: 不是所有的控件路径都返回值
+  All 372 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Breakout.vcxproj -> D:\Game230\Breakout\Breakout\Release\Breakout.exe
